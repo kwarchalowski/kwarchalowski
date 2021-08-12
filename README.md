@@ -1,8 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Charlie</h1>
 <h3 align="center">Fullstack wannabe from Warsaw, Poland</h3>
 
+
+![picture alt](.images/agh-eaiiib.png "Comp. Science graduate at WEAIiIB, AGH")
+
 ## :mortar_board: Skills and knowledge :mortar_board:
-- :computer: MSc in Computer Science @ AGH University of Science and Technology in Kraków, Poland :poland:
+- :computer: MSc in Computer Science @ WEAIiIB, AGH University of Science and Technology in Kraków, Poland :poland:
 - almost a decade of freelancing and programming small projects for :money_with_wings: 
 - Full Stack developement:
   * JavaScript, Node.js, React, HTML, CSS, Sass
@@ -10,6 +13,9 @@
   * pretty much anything if you give me at least two weeks :feelsgood:
 - Visual Studio Code IDE, ~IntelliJ stack if needed
 - Autodesk Maya (3D), Adobe Photoshop (2D) graphics
+
+
+![picture alt](.images/genshin-splash.png "Hobbies and socials :)")
 
 ## 📅 Hobbies 📅
 - :sparkling_heart: Netflix and chill
