@@ -19,7 +19,7 @@
 [![picture alt](.images/genshin-splash.png "Hobbies and socials :)")](https://genshin.mihoyo.com/en/)
 
 - :sparkling_heart: Netflix and chill
-- :space_invader: Gaming, streaming for my people on Twitch :tv:
+- :space_invader: Gaming, streaming for my people on Twitch [:tv:](https://www.twitch.tv/z0miren)
 - :speech_balloon: Discord servers activity etc.
 - :books: Reading books would be great if I had enough patience which I lack of now
 - :red_car: drivin' fast :rocket:
