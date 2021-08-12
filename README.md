@@ -12,11 +12,11 @@
 - Visual Studio Code IDE, ~IntelliJ stack if needed
 - Autodesk Maya (3D), Adobe Photoshop (2D) graphics
 
-<h1 align="center"> --- </h1>
+<h3 align="center"> --- </h3>
 
 # 📅 Hobbies 📅
 
-![picture alt](.images/genshin-splash.png "Hobbies and socials :)")
+[![picture alt](.images/genshin-splash.png "Hobbies and socials :)")](https://genshin.mihoyo.com/en/)
 
 - :sparkling_heart: Netflix and chill
 - :space_invader: Gaming, streaming for my people on Twitch :tv:
