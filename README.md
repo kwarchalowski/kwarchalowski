@@ -12,19 +12,18 @@
 - Visual Studio Code IDE, ~IntelliJ stack if needed
 - Autodesk Maya (3D), Adobe Photoshop (2D) graphics
 
-<h3 align="center"> --- </h3>
+<h3 align="center"> ......... </h3>
 
 # 📅 Hobbies 📅
 
 [![picture alt](.images/genshin-splash.png "Hobbies and socials :)")](https://genshin.mihoyo.com/en/)
 
 - :sparkling_heart: Netflix and chill
-- :space_invader: Gaming, streaming for my people on Twitch [:tv:](https://www.twitch.tv/z0miren)
+- :space_invader: Gaming, streaming for my people :tv:
 - :speech_balloon: Discord servers activity etc.
-- :books: Reading books would be great if I had enough patience which I lack of now
-- :red_car: drivin' fast :rocket:
+- :books: :red_car: :rocket: readin', drivin'...
 
 # :speech_balloon: Contact me
 - [Homepage](https://warchalowski.pl) - there's contact form somewhere
-- [Discord](https://discord.com/users/221202392685871114) - z0miren#3717
+- [Discord](https://discord.com/users/221202392685871114)
 - [email me](mailto:kontakt@warchalowski.pl) directly
