@@ -24,6 +24,7 @@
 - :books: :red_car: :rocket: readin', drivin'...
 
 # :speech_balloon: Contact me
-- [Homepage](https://warchalowski.pl) - there's contact form somewhere
-- [Discord](https://discord.com/users/221202392685871114)
-- [email me](mailto:kontakt@warchalowski.pl) directly
+- :globe_with_meridians: [Homepage](https://warchalowski.pl) - there's contact form somewhere
+- :loud_sound: [Discord](https://discord.com/users/221202392685871114)
+- :e-mail: [email me](mailto:kontakt@warchalowski.pl) directly
+- :video_game: GenshinImpact: 700702030 
