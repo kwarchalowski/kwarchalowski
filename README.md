@@ -12,8 +12,6 @@
 - Visual Studio Code IDE, ~IntelliJ stack if needed
 - Autodesk Maya (3D), Adobe Photoshop (2D) graphics
 
-<h3 align="center"> ......... </h3>
-
 # 📅 Hobbies 📅
 
 [![picture alt](.images/genshin-splash.png "Hobbies and socials :)")](https://genshin.mihoyo.com/en/)
