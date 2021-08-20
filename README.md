@@ -3,7 +3,7 @@
 
 
 # :mortar_board: Skills and knowledge :mortar_board:
-- :computer: MSc in Computer Science @ EEACSBE, AGH University of Science and Technology in Kraków, Poland :poland:
+- :computer: MSc in Computer Science @ WEAIiIB, AGH University of Science and Technology in Kraków, Poland :poland:
 - almost a decade of freelancing and programming small projects for :money_with_wings: 
 - Full Stack development:
   * JavaScript, Node.js, React, HTML, CSS, Sass
