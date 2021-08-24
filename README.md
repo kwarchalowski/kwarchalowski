@@ -14,16 +14,13 @@
 
 # 📅 Hobbies 📅
 
-[![picture alt](.images/genshin-splash.png "Hobbies and socials :)")](https://genshin.mihoyo.com/en/)
-
 - :sparkling_heart: Netflix and chill
 - :space_invader: Gaming, streaming for my people :tv:
 - :speech_balloon: Discord servers activity etc.
-- :books: :red_car: :rocket: readin', drivin'...
+- :books: :red_car: :rocket: reading books, driving, rocket science
 
 # :speech_balloon: Contact me
 - :globe_with_meridians: [Homepage](https://warchalowski.pl) - there's contact form somewhere
 - :telephone: [LinkedIn](https://www.linkedin.com/in/karol-warcha%C5%82owski/) profile
 - :loud_sound: [Discord](https://discord.com/users/221202392685871114)
 - :e-mail: [email me](mailto:kontakt@warchalowski.pl) directly
-- :video_game: GenshinImpact: 700702030 
