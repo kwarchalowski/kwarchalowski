@@ -16,7 +16,7 @@
 # 📅 Hobbies 📅
 
 - :hot_pepper: Hot and exotic cuisine
-- :sparkling_heart: Netflix and chill
+- :sparkling_heart: Spending time with my beloved one 
 - :space_invader: Gaming, streaming for my people :tv:
 - :speech_balloon: Discord servers activity etc.
 - :books: :red_car: :rocket: reading books, driving, rocket science
