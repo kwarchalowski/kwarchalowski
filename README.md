@@ -24,5 +24,4 @@
 # :speech_balloon: Contact me
 - :globe_with_meridians: [Homepage](https://warchalowski.pl) - there's contact form somewhere
 - :telephone: [LinkedIn](https://www.linkedin.com/in/karol-warcha%C5%82owski/) profile
-- :loud_sound: [Discord](https://discord.com/users/221202392685871114)
 - :e-mail: [email me](mailto:kontakt@warchalowski.pl) directly
