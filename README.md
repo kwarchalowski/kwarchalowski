@@ -6,10 +6,10 @@
 - :computer: MSc in Computer Science @ WEAIiIB, AGH University of Science and Technology in Kraków, Poland :poland:
 - webdev, freelancing and programming small projects for :money_with_wings: 
 - Full Stack development:
-  * JavaScript + Nativescript, TypeScript, Angular, Vue.js/Vuex, Node.js
-  * HTML, CSS (Sass)
+  * JavaScript + Nativescript, TypeScript, Node.js, React, Angular, Vue.js/Vuex
+  * HTML, CSS (SCSS)
   * Java, C#
-  * Firebase, Docker, PostgreSQL, mongoDB, Azure DevOps, Kubernetes
+  * PostgreSQL, Firebase, Docker, mongoDB, Azure DevOps, k8s
 
 # 📅 Hobbies 📅
 
